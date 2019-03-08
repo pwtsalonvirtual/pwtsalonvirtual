@@ -109,17 +109,21 @@ body {margin:0;font-family:Arial}
 }
 </style> <title>index</title>
   </head>
-  <body style="              margin-left: 28px;"><img src="file:///E:/Mis%20Sitios%20WEB/PWTSalonVirtual/Imagenes/pixma%20inc.png"
+  <body style="              margin-left: 28px;"><img src="/Imagenes/pixma%20inc.png"
+
       alt="">
     <div class="topnav" id="myTopnav"> <a href="#Inicio" class="active">Inicio</a>
       <div class="dropdown"> <button class="dropbtn">Información del área <i class="fa fa-caret-down"></i>
         </button>
-        <div class="dropdown-content"> <a href="#">Técnico Programador</a> <a
+        <div class="dropdown-content"> <a href="#">Técnico Programador</a> <a
+
             href="#">Software y Lenguajes</a> <a href="#">Plan de Estudios</a>
           <a href="#">Perfil del egresado</a> </div>
       </div>
-      <a href="#Salon">Salón virtual</a> <a href="#contactar">Contactar</a> <a
-        href="#about">Acerca de mi</a> <a href="javascript:void(0);" style="font-size:15px;"
+      <a href="#Salon">Salón virtual</a> <a href="#contactar">Contactar</a> <a
+
+        href="#about">Acerca de mi</a> <a href="javascript:void(0);" style="font-size:15px;"
+
         class="icon" onclick="myFunction()">☰</a> </div>
     <br>
     <table style="width: 100%;" cellspacing="25" border="0">
@@ -170,7 +174,8 @@ body {margin:0;font-family:Arial}
             <td><img src="file:///D:/Mis%20Sitios%20WEB/PWTSalonVirtual/Imagenes/IMG_20180323_082715861.jpg"><br>
             </td>
             <td>
-              <h2 style="box-sizing: inherit; margin: 10px 0px; position: relative; font-size: 30px; font-family: &quot;Segoe UI&quot;,Arial,sans-serif; font-weight: 400; text-align: center;"><span
+              <h2 style="box-sizing: inherit; margin: 10px 0px; position: relative; font-size: 30px; font-family: &quot;Segoe UI&quot;,Arial,sans-serif; font-weight: 400; text-align: center;"><span
+
                   style="box-sizing: inherit; font-family: garamond;"><b style="box-sizing: inherit;">Nuestros
                     Proyectos</b></span></h2>
               <span style="box-sizing: inherit; font-family: garamond; font-size: x-large;"><br>
